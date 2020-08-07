@@ -1,6 +1,6 @@
 # DELANI-STUDIO
-#### DELANI-STUDIO is a landing page for a web-design studio that provides a description of what we do, May 5th 2019
-#### By **Xavier Frankline**
+#### DELANI-STUDIO is a landing page for a web-design studio that provides a description of what we do, Aug 5th 2020
+#### By **kariuki J**
 ## Description
 Delani-studio is a web application that illustrates what projects we do as a design studio. It includes a portfolio of some of our projects, and a detailed description of what we do from inception to completion of the project. Further to this, the application is built to incoporate bootsrap styling and jQuery effects as an illustration of our proffeciency in the afformentioned fields.The application also includes a form that allows users to enter their names and emails.
 ## Setup/Installation Requirements
@@ -24,7 +24,7 @@ CSS
 Javascript
 jQuery
 ## Support and contact details
-xf.xavierfrank@gmail.com
+mbiyukariuki376@gmail.com
 ### License
 * LICENSE.txt*
 
